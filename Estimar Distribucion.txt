@@ -1,0 +1,1 @@
+La estimacion paramétrica consiste en suponer una función para la distribución y ajustar los parámetros de los datos a dicha distribución. Por otro lado, la estimación no paramétrica se aplica cuando los datos no se ajustan a ninguna distribución conocida.
